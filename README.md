@@ -18,6 +18,9 @@ I made the option on the pcb to use USB C port or JST jumper to Daughter board
 <img width="5712" height="4284" alt="AppleAlive Back PCB" src="https://github.com/user-attachments/assets/8b8c991d-f82f-4416-89c5-cf70a8b5094c" />
 
 I mount the dauther board to the existing hole in the plate with acrylic plate
-<img width="3024" height="4032" alt="AppleAlive USB C DB" src="https://github.com/user-attachments/assets/c1408936-07fb-4c1f-aae4-261612c3bbdb" />
-<img width="4284" height="5712" alt="AppleAlive USB C mounting to plate" src="https://github.com/user-attachments/assets/a9351853-177e-46bd-b481-bdd04a89e98d" />
+<img width="2941" height="2317" alt="AppleAlive USB C DB" src="https://github.com/user-attachments/assets/91ba47ce-76de-4091-aace-a4de68a63975" />
+<img width="4114" height="4619" alt="AppleAlive USB C mounting to plate" src="https://github.com/user-attachments/assets/247689ba-2463-4e17-b37a-16aa241ced6c" />
+
+
+
 
